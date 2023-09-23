@@ -17,7 +17,7 @@ Before you start contributing, please follow these guidelines:
 
 ### Discuss Your Contribution
 
-- **Step 1** - Browse the [Issues section](https://github.com/andrewrgarcia/bcrpy/issues) of this repository to find tasks, bugs, or features you'd like to work on.
+- **Step 1** - Browse the [Issues section](https://github.com/andrewrgarcia/.../issues) of this repository to find tasks, bugs, or features you'd like to work on.
 - **Step 2** - If you find an issue that interests you, please comment on the issue to discuss your intention to work on it. This helps prevent duplicate efforts and ensures that your contribution aligns with the project's goals.
 
 ## Participate as a Contributor
